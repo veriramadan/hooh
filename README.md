@@ -6,4 +6,4 @@ pkg install php
 pkg install git
 cd hooh
 php tenan.php
-p asu.php
+
