@@ -4,6 +4,6 @@ Cara install
 pkg upgrade && pkg update
 pkg install php
 pkg install git
-cd hooh
+cd tereliye
 php tenan.php
 
